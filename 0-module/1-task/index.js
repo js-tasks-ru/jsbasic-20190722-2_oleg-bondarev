@@ -5,5 +5,13 @@
  * @returns {number}
  */
 function sum(m, n) {
+    return m + n;
+} 
 
-}
+var test = sum(1, 1);
+alert(test);
+
+
+
+
+
